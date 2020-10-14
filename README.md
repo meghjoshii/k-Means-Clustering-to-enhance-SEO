@@ -9,4 +9,6 @@ Clicks, Impressions, CTR, and Position. Other parameters like length of the titl
 from web crawlers. The clustering technique enables one to gain insight into which parameters should be optimised for
 maximum impact.
 
+Data flow pipeline uses k-Means clustering to derive reccomendations.
+
 [View Research Paper](https://www.ijsr.net/get_abstract.php?paper_id=SR20607192344)
